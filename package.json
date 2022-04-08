@@ -1,0 +1,25 @@
+{
+  "name": "attention-chainsaw",
+  "version": "1.0.0",
+  "description": "A console game",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/face-hh/attention-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/face-hh/attention-chainsaw/issues"
+  },
+  "homepage": "https://github.com/face-hh/attention-chainsaw#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "eslint": "^8.10.0"
+  }
+}
